@@ -1,0 +1,11 @@
+# Xcode-specific files
+.DS_Store
+*.xcworkspace
+*.xcuserdatad
+*.xcsc
+*.xcscheme
+*.xcodeproj/project.pbxproj
+*.xcodeproj/xcuserdata
+*.xcodeproj/xcshareddata
+.DS_Store
+Preview Content/Preview Assets.xcassets
