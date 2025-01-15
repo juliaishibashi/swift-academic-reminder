@@ -1,4 +1,5 @@
 # Academic Reminder
+_Academic Reminder_ helps to prevent procrastination by setting multiple reminders for assignment deadlines. This app was designed to be simple and easy to manage based on interviews with over 10 students about their ideal academic management application.
 
 ## Features
 - Multiple reminders for assignment deadlines.
@@ -16,6 +17,6 @@
 - The app will notify users based on the selected reminder time.
 
 ## Technologies Used
-- SwiftUI
-- SwiftData (for managing assignment and reminder data)
+- SwiftUI 6
+- SwiftData
 - Local notifications
