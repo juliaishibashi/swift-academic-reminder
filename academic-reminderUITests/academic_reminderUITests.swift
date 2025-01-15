@@ -1,10 +1,3 @@
-//
-//  academic_reminderUITests.swift
-//  academic-reminderUITests
-//
-//  Created by Julia on 2024-11-25.
-//
-
 import XCTest
 
 final class academic_reminderUITests: XCTestCase {

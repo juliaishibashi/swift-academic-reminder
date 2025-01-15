@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  academic-reminder
-//
-//  Created by Julia on 2024-11-26.
-//
-
 import SwiftUI
 
 struct ContentView: View {
