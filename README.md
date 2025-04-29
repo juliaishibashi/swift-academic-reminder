@@ -1,3 +1,7 @@
+
+https://github.com/user-attachments/assets/0b1568c5-9f52-4b4b-afe2-6dd9cd61f759
+
+
 # Academic Reminder
 _Academic Reminder_ helps to prevent procrastination by setting multiple reminders for assignment deadlines. This app was designed to be simple and easy to manage based on interviews with over 10 students about their ideal academic management application.
 
